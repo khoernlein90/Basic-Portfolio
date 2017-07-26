@@ -58,6 +58,8 @@ ul, li {
 	padding: 0;
 	margin-right: 110px;
 	background-color: white;
+	text-decoration: none;
+	color: gray;
 }
 
 #main {
